@@ -1,0 +1,162 @@
+
+
+
+
+
+
+.main-div1{
+  height: 400px;
+  width: 400px;
+  border: 1px dotted rgb(165, 38, 38);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.div-one{
+  font-size: 20px;
+  background-color: red;
+  border: 1px solid black;
+  height: 30px;
+  width: 70px;
+ 
+}
+
+.main-div2{
+  height: 200px;
+  width: 1000px;
+  border: 1px solid black;
+  display: flex;
+justify-content: flex-end;
+align-items: flex-end;
+ 
+}
+
+.div-two{
+  font-size: 20px;
+  background-color: red;
+  border: 1px solid green;
+  height: 30px;
+  width: 70px;
+}
+
+.main-div3{
+  height: 400px;
+  width: 600px;
+  border: 1px solid black;
+  display: flex;
+
+  flex-wrap: wrap;
+  align-content: center;
+}
+
+
+.div-three{
+  font-size: 20px;
+  background-color: red;
+  border: 1px solid green;
+  height: 30px;
+  width: 70px;
+  
+}
+
+.main-div4{
+
+  height: 400px;
+  width: 400px;
+  border: 1px dotted rgb(165, 38, 38);
+  display: flex;
+  
+}
+
+.div-four{
+  font-size: 20px;
+  text-align: center;
+  background-color: red;
+  border: 1px solid green;
+  height: 30px;
+  width: 80px;
+}
+
+.main-div5{
+
+  height: 400px;
+  width: 600px;
+  border: 1px solid black;
+  display: flex;
+
+  
+}
+
+.div1{
+  font-size: 20px;
+  text-align: center;
+  background-color: red;
+  border: 1px solid green;
+  height: 30px;
+  width: 100px;
+  flex-grow: 1;
+
+}
+.div2{
+  font-size: 20px;
+  text-align: center;
+  background-color: red;
+  border: 1px solid green;
+  height: 30px;
+  width: 100px;
+  flex-grow: 1;
+
+}
+.div3{
+  font-size: 20px;
+  text-align: center;
+  background-color: red;
+  border: 1px solid green;
+  height: 30px;
+  width: 100px;
+  flex-grow: 1;
+  align-self: flex-end;
+ 
+}
+.div4{
+  font-size: 20px;
+  text-align: center;
+  background-color: red;
+  border: 1px solid green;
+  height: 30px;
+  width: 100px;
+  flex-grow: 1;
+  align-self: center;
+}
+.div5{
+  font-size: 20px;
+  text-align: center;
+  background-color: red;
+  border: 1px solid green;
+  height: 30px;
+  width: 100px;
+  flex-grow: 1;
+}
+
+.main-div6{
+
+  height: 400px;
+  width: 600px;
+  border: 1px solid rgb(19, 18, 18);
+  display:flex;    
+  align-items:stretch;
+  flex-direction: row-reverse;
+  
+}
+
+.div-five{
+  font-size: 20px;
+  text-align: center;
+  background-color: red;
+  border: 1px solid green;
+  
+  align-items: stretch;
+  
+}
